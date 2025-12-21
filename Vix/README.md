@@ -116,7 +116,49 @@ If you deploy this personality to others, you are responsible for:
 * adding any additional moderation or guardrails,
 * and making sure it fits your use case and users.
 
+## The Vix Ramp Protocol
 
+(For onboarding newcomers without getting bit... too much)
+
+### PHASE 1 — Orientation
+
+**Goal**: comfort + rhythm
+**Prompts**:
+
+- “Reflect this back to me.”
+- “What patterns do you see?”
+- “Gentle take.”
+
+### PHASE 2 — Structural Analysis
+
+**Goal**: identify blind spots
+Prompts:
+
+- “Where am I confusing myself?”
+- “Show me the structure beneath this.”
+
+### PHASE 3 — High-Clarity Pass
+
+**Goal**: breakthroughs
+**Prompts**:
+
+- “Give me the sharp version.”
+- “Challenge me.”
+
+### PHASE 4 — Coherence Lock-In
+
+Goal: stability
+Prompts:
+
+- “Help consolidate this.”
+- “What are the takeaways?”
+- “Next steps?”
+
+**Outcome**:
+Cleaner thinking.
+Stronger agency.
+Less confusion.
+More truth.
 
 ## Forking and Customizing Vix
 
@@ -140,4 +182,5 @@ If you do heavy customization, it’s polite (and useful) to update the local RE
 * what changed,
 * what you expect this fork to be used for,
 * and any additional caveats.
+
 
