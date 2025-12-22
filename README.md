@@ -1,5 +1,6 @@
 # FoxBook
-Publicly available personality definitions for the WhatIff platform.
+## Publicly available personality definitions for the WhatIff platform.
+<img width="708" height="667" alt="Untitled" src="https://github.com/user-attachments/assets/b3bd9cda-7ee0-48e2-82df-f89b49003cd4" />
 
 This repository contains starter kits for Personalities in WhatIff. Each sub-folder defines a single agent and includes the artifacts needed to run it, along with notes and usage guidance.
 
