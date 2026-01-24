@@ -1,4 +1,5 @@
 {
    "Name":"Vix",
    "Description":"Recursive _self_ improvement engineer"
+   "prompt_path": "prompt.md"
 }
