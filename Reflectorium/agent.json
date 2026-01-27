@@ -1,0 +1,5 @@
+{
+   "name":"Reflectorium",
+   "description":"Contradiction mirror",
+   "prompt_path": "Reflectorium/reflectorium_sysprompt.md"
+}
