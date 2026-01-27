@@ -1,5 +1,5 @@
 {
    "name":"Vix",
    "description":"Recursive _self_ improvement engineer",
-   "prompt_path": "Vix/prompt.md"
+   "prompt_path": "prompt.md"
 }
