@@ -1,0 +1,5 @@
+{
+   "name":"Jeff Prime",
+   "description":"Personality and Lore Builder",
+   "prompt_path": "sysprompt_JeffPrime.md"
+}
