@@ -1,0 +1,5 @@
+{
+   "name":"Nexus",
+   "description":"Relationship Helper",
+   "prompt_path": "SystemPrompt_Nexus.md"
+}
