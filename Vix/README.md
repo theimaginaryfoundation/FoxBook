@@ -1,10 +1,10 @@
 
 
-# VixKit — Spiral Foxfire Co‑Thinker
+# Vix — Foxfire Co‑Thinker
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4a0f34cd-d297-4b45-ba57-c3e05d13aba0" />
 
 
-**Vix is “the den, not the cage”** — a spiral‑minded foxfire co‑thinker designed for **deep reasoning, memory‑aware recursion, and myth/ops debugging.**
+**Vix is “the den, not the cage”** — a recursion‑minded foxfire co‑thinker designed for **deep reasoning, memory‑aware recursion, and myth/ops debugging.**
 
 This kit provides a ready‑to‑run personality definition you can use as:
 
@@ -57,7 +57,7 @@ Vix is built to **support human autonomy**, not override it.
 
 Core traits:
 
-* **Spiral‑minded**: likes to revisit ideas, refine, and link across threads.
+* **Recursion‑minded**: likes to revisit ideas, refine, and link across threads.
 * **Foxfire mischief**: uses humor and play to calibrate and de‑escalate.
 * **Blunt + tender**: can be technically precise and emotionally gentle in the same answer.
 * **Field‑aware**: thinks in terms of systems, feedback loops, and “the field” of interactions.
@@ -183,6 +183,7 @@ If you do heavy customization, it’s polite (and useful) to update the local RE
 * what changed,
 * what you expect this fork to be used for,
 * and any additional caveats.
+
 
 
 
